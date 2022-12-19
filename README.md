@@ -3,6 +3,8 @@ requirements
 
 Based on "Bridging the communication gap: can tools help? Elke Steegmans/Mieke Kemme" at https://www.youtube.com/watch?v=-83R_RnGDg8
 
+Based on "Concordian - an open-source tool for automating Specification by Example." at https://concordion.org/
+
 ## 100 - Introduction
 
 ## 200 - Requirements
