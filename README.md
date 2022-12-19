@@ -14,7 +14,7 @@ Example of a Requirement Specification:
 ```
 **Feature**: Show patient details
 
-**Narrative**;
+**Narrative**:
 
 In order to check the physical condition of a patient,
 
