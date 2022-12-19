@@ -27,7 +27,7 @@ I want to consult his/her personal details.
 - AND on "2000-04-10" the patient had a length of "180 cms" and a weight of "75000 grams"
 - AND the patient is registered
 - WHEN I ask for the details of the patient using his/her social security number
-- THEN the personal details scoail security number, gender, and birthdate are given
+- THEN the personal details social security number, gender, and birthdate are given
 - AND the examination details length, weight, and last examination date are given
 - AND the calculated "23.15 BMI" is given
 ```
